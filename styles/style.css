@@ -81,7 +81,7 @@
 
 .two-columns {
   margin-top: 100px;
-  width: 80%; 
+  width: 80%;
   display: flex;
 }
 
@@ -94,7 +94,7 @@
 }
 
 .two-columns__main-text {
-  width: 80%; 
+  width: 80%;
   right: 0;
   min-width: 784px;
   list-style: none;
