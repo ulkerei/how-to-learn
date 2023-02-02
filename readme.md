@@ -1,11 +1,13 @@
-# Научиться учиться
-## Описание проекта
-Учебный проект второго спринта *Яндекс-Практикума* по веб-разработке - одностраничный сайт о техниках обучения.  
-**Функциональность:**  
-1. Предоставляет краткую информацию о современных и эффективных подходах к обучению.
-2. Демонстрирует применение различных эфффектов оформления средствами HTML5.
-## Используемые технологии
-Для оформления декоративных элементов сайта были использованы трансформации и анимации, врезка контента сторонних источников.  
-## Планы по доработке проекта
-* Сделать ссылки *живыми*.
-* Оторвать от портрета Ричарда Фейнмана синий круг и заставить его двигаться, применив анимацию.
+# How to learn (Научиться учиться)
+## About
+The training project of the second sprint *Yandex-Practicum* on web development is a one-page website about training techniques.
+**Functionality:**  Demonstrates the use of various HTML5 design effects.
+1. Provides brief information about modern and effective approaches to learning.
+2. Demonstrates the use of various HTML5 design effects.
+## Technologies
+Transformations and animations, embedding of content from external sources.
+## View the page:
+https://ulkerei.github.io/how-to-learn/
+## Future plans
+* Update ther links.
+* Add animation to the blue circle.
